@@ -1,0 +1,8 @@
+.sign-up{
+    background: linear-gradient(to left, #000099 0%, #ff99cc 100%);
+}
+.sign{
+    height: 400px;
+    background-color: white;
+    border-radius: 8px;
+}
